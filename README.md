@@ -1,4 +1,4 @@
-# Ankit Admin Studio
+# Admin Studio
 
 A customized, responsive admin dashboard starter created for `ankitsarkar184`.
 
